@@ -1,0 +1,3 @@
+rootProject.name = 'all_in_one_sports_5072'
+
+include ':app'
